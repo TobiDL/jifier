@@ -5,7 +5,7 @@ html, body, .container {
 }
 
 body{
-    overflow:hidden;
+    overflow-y:hidden;
 }
 .container {
     display: table;
